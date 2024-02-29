@@ -1,0 +1,1 @@
+const API_ROUTE = "https://api.adviceslip.com/advice";
